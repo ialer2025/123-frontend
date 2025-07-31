@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import './index.css';
 import './App.css';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
